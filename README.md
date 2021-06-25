@@ -1,4 +1,6 @@
 ### Hello there, I'm Jenni 👋
+Welcome to my Github profile! Here you can find my projects that I have done. Some of my own favourites are [Restaurant Quinto](https://jennilehtonen.github.io/Restaurant-Quinto/), [Quiz project](https://jennilehtonen.github.io/Quiz-project/) and [Exercise diary](https://github.com/JenniLehtonen/Exercise-diary).
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniLehtonen)
 <!--
 **JenniLehtonen/JenniLehtonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
