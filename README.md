@@ -1,5 +1,5 @@
-### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniLehtonen&theme=tokyonight)
+### Hello there, I'm Jenni 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniLehtonen)
 <!--
 **JenniLehtonen/JenniLehtonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
