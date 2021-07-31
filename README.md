@@ -1,5 +1,5 @@
 ### Hello there, I'm Jenni 👋
-Welcome to my Github profile! Here you can find my projects that I have done. Some of my own favourites are [Restaurant Quinto](https://jennilehtonen.github.io/Restaurant-Quinto/), [Quiz project](https://jennilehtonen.github.io/Quiz-project/) and [Exercise diary](https://github.com/JenniLehtonen/Exercise-diary). My main focus on programming is web development.
+Welcome to my Github profile! Here you can find projects that I have done. Some of my own favourites are [Restaurant Quinto](https://jennilehtonen.github.io/Restaurant-Quinto/), [Quiz project](https://jennilehtonen.github.io/Quiz-project/), [Weather app](https://github.com/JenniLehtonen/Weather-app) and [Exercise diary](https://github.com/JenniLehtonen/Exercise-diary). My main focus on programming is web development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniLehtonen)
 <!--
