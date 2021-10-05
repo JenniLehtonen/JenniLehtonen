@@ -1,6 +1,8 @@
 ### Hello there, I'm Jenni 👋
 Welcome to my Github profile! Here you can find projects that I have done. Some of my own favourites are [Restaurant Quinto](https://github.com/JenniLehtonen/Restaurant-Quinto/), [Quiz project](https://github.com/JenniLehtonen/Quiz-project/), [Weather app](https://github.com/JenniLehtonen/Weather-app) and [Exercise diary](https://github.com/JenniLehtonen/Exercise-diary). My main focus on programming is web development.
 
+I am currently working on a school project in which we create a mobile application for searching movies. The application is built with React Native.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniLehtonen)
 <!--
 **JenniLehtonen/JenniLehtonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
